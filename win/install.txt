@@ -1,0 +1,2 @@
+write-host "Installing Python"
+write-host "Installing Git"
